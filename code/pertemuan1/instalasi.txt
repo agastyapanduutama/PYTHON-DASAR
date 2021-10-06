@@ -1,0 +1,9 @@
+-Download Python Versi 3, rekomendasi menggunakan versi 3.8.2 namun versi lainnya juga boleh
+link download : https://www.python.org/downloads/
+
+-pilih sesuai versi OS kalian jika tidak bisa menggunakan versi 3.8.2 boleh diatasnya atau juga boleh dibawahnya
+
+-Install Code editor sesuai selera kalian, boleh VSCode, Sublime Text, Atom dan lainnya
+-Jika memungkinkan ekstensi Python ada pada kode editor kalian silakan Install extensinya
+
+Referensi Youtube : https://youtu.be/OSmaWPSgvTQ

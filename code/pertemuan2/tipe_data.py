@@ -1,3 +1,6 @@
+# Tipe Data 
+
+
 # Nilai Integer
 print("---------INT--------")
 nilai_int = 9
