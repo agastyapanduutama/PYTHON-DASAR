@@ -1,13 +1,18 @@
-# Variable 
+"""
+Variabel adalah lokasi memori yang dicadangkan untuk menyimpan nilai-nilai
+"""
+# Memasukan nilai kedalam variable
+nama ="Pandu"
+print(nama)
 
-# contoh penggunaan Variable
+# contoh Penggabungan Variable
 text1 = "Hello"
 text2 = "World"
 print(text1,text2)
 
+# Mengambil nilai dari Input user dan digabungkan nilainya
+sapa = "Hai, "
+inputNama = input("Nama : ")
+ucapan = "Selamat malam cantik"
 
-# Mengambil nilai dari Input user
-text1 = input("Nama : ")
-text2 = "Selamat malam"
-
-print(text1, text2)
+print(sapa, inputNama, ucapan)

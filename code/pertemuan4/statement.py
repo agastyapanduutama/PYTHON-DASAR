@@ -1,5 +1,12 @@
 # If, Elseif, else statement
+"""
+Pengambilan keputusan (kondisi if) digunakan untuk mengantisipasi kondisi yang terjadi saat jalanya program dan menentukan tindakan apa yang akan diambil sesuai dengan kondisi.
 
+Pada python ada beberapa statement/kondisi diantaranya adalah if, else dan elif Kondisi if digunakan untuk mengeksekusi kode jika kondisi bernilai benar True.
+
+referensi : 
+https://belajarpython.com/tutorial/kondisi-if-else-python
+"""
 
 nilai1 = 10
 nilai2 = 11
